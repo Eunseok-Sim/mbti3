@@ -1,3 +1,5 @@
+import streamlit as st
+
 st.title("🔮 MBTI 판독기")
 
 st.write("아래에서 네 가지 차원별로 당신은 어느 쪽에 더 가까운지 선택해보세요!")
